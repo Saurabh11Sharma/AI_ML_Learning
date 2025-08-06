@@ -1,0 +1,3 @@
+/* Custom Callouts */
+.callout[data-callout="tip"] { --callout-color: 100,150,250; }
+.callout[data-callout="warning"] { --callout-color: 250,100,100; }
